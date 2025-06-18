@@ -13,7 +13,7 @@ Retail analytics dashboard showing profit margin, product trends, and customer s
 - Created KPIs for revenue, profit, and quantity
 - Analyzed top-selling products and underperformers
 - Added customer age segmentation
-- 📸 ![Screenshot](images/marven-market.png)
+- 📸 ![Screenshot](https://github.com/marlarthan/marlarthan.github.io/blob/main/images/marven%20market.PNG)
 - 📂 [Download PBIX](files/marven-market.pbix)
 - 🔗 [Live Dashboard](https://your-powerbi-publish-link.com) *(optional)*
 
