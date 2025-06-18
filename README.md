@@ -35,7 +35,7 @@ Built for banking ops to track daily transactions and system performance.
 
 - Transaction volumes by type and branch
 - ATM usage trends and anomaly detection
-- 📸 ![Screenshot](images/banking-transactions.png)
+- 📸 ![Screenshot](https://github.com/marlarthan/marlarthan.github.io/blob/main/images/banking%20dashboard.PNG)
 
 ---
 
