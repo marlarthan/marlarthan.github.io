@@ -25,7 +25,7 @@ Designed for a mobile retail business to analyze brand-wise and region-wise sale
 
 - Used ZoomCharts visuals with drilldowns and filters
 - Visualized revenue by brand and region
-- 📸 ![Screenshot](images/mobile-sales.png)
+- 📸 ![Screenshot](images/mobile-sales.png)](https://github.com/marlarthan/marlarthan.github.io/blob/main/images/Mobile%20sales.PNG)
 
 ---
 
