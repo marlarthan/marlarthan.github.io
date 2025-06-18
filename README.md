@@ -14,7 +14,7 @@ Retail analytics dashboard showing profit margin, product trends, and customer s
 - Analyzed top-selling products and underperformers
 - Added customer age segmentation
 - 📸 ![Screenshot](https://github.com/marlarthan/marlarthan.github.io/blob/main/images/marven%20market.PNG)
-- 📂 [Download PBIX](files/marven-market.pbix)
+- 📂 [Download PBIX](files/marven-market.pbix)](https://github.com/marlarthan/marlarthan.github.io/blob/main/PBIX/Assignment.pbix)
 - 🔗 [Live Dashboard](https://your-powerbi-publish-link.com) *(optional)*
 
 ---
